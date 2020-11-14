@@ -2,6 +2,7 @@ Changes
 Makefile.PL
 MANIFEST
 README
+CONTRIBUTING.md
 t/001-load.t
 t/002-live.t
 t/changes.t
