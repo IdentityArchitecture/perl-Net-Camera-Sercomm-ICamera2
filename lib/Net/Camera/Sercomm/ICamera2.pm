@@ -20,7 +20,7 @@ Net::Camera::Sercomm::ICamera2 - Perl Interface for Sercomm ICamera2 network cam
 
 =head1 DESCRIPTION
 
-The Sercomm ICamera2 is network camera that can be accessed via a web interface.
+The Sercomm ICamera2 is a network camera that can be accessed via a web interface.
 This module provides methods to retrieve an image from the camera.
 
 =head1 PROPERTIES
