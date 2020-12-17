@@ -59,6 +59,8 @@ Returns a JPEG image.
 
 https://github.com/edent/Sercomm-API, [Net::Camera::Edimax::IC1500](https://metacpan.org/pod/Net::Camera::Edimax::IC1500)
 
+http://bit.ly/2LE4Ggs
+
 # AUTHOR
 
 Michael R. Davis mrdvt at cpan
